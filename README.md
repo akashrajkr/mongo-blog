@@ -1,4 +1,7 @@
-# mongo-blog
+# mongo-blog 
+
+<img src="https://image.flaticon.com/icons/svg/14/14460.svg" alt="drawing" width="100"/>
+
 A simple blog app that has all features of a fully fledged blog.
 ## Description
 Used platforms and frameworks
