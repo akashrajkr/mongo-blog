@@ -1,4 +1,4 @@
-# mongo-blog 
+# mongo-blog project
 
 <img src="https://image.flaticon.com/icons/svg/14/14460.svg" alt="drawing" width="100"/>
 
